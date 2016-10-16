@@ -5,4 +5,4 @@ This is my engineering thesis discussing new algorithm for mental stress assessm
 ## Code
 Implementation in MATLAB is attached. Input data should be in text/csv format with following format:
 [hh]:[mm]:[ss]	[ms]	[N]
-Where first colon is time of last hear beat and second colon is time in ms since last heartbeat. Last colon signifies that this is NN interval.
+Where first colon is time of last heartbeat beat and second colon is time in ms since last heartbeat. Last colon signifies that this is NN interval.
